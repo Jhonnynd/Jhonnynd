@@ -10,7 +10,7 @@ I graduated from Computer Engineering, and decided to join Rocket Academy's Soft
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [jhonny.nd@gmail.com](mailto:jhonny.nd@gmail.com)
 * 🧠  I'm learning TypeScript, Python, AWS
-* ⚡ Fun fact: I like films, video and photo editing!
+* ⚡ Fun facts: I like films, video and photo editing!
 
 ### Skills
 
