@@ -5,7 +5,7 @@ Full Stack Software Engineer
 ----------------------------
 
 I graduated from Computer Engineering, and decided to join Rocket Academy's Software Engineering bootcamp to increase my knowledge and solidify my problem-solving skills.
-🖥️  See my portfolio at [jhonnynd.github.io](https://github.com/Jhonnynd)
+🖥️  See my portfolio at [jhonnynd.github.io](jhonnynd.github.io)
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [jhonny.nd@gmail.com](mailto:jhonny.nd@gmail.com)
